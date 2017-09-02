@@ -1,5 +1,5 @@
 # Projekt strony RWD - Tajem
 
-Wersja online: https://myniko.github.io/tajem/
+Wersja online: https://myniko.github.io/tajem/index.html
 
 ---
